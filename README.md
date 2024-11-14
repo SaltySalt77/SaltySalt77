@@ -34,3 +34,11 @@ logo |  project name | repo | webpage | my role
 #### 42 Seoul
 
 [![<hyna>'s 42 stats](https://badge.mediaplus.ma/honeytones/hyna)](https://github.com/oakoudad/badge42)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/SaltySalt77"
+  width="600"
+  height="300"
+/>
+</a>
